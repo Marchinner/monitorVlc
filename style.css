@@ -1,0 +1,25 @@
+.divStaraVlcHeader {
+    text-align: center;
+    background-color: white;
+}
+body {
+    background-color: rgb(216, 212, 212);
+}
+
+
+.tableInformacoes {
+    display: inline-flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.divmoedas {
+    text-align: center;
+}
+
+.divInfos {
+    text-align: center;
+    font-size: 24px;
+    font-style: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
