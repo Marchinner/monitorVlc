@@ -23,3 +23,7 @@ body {
     font-style: bold;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.meuNome {
+    font-size: 10px;
+}
