@@ -27,7 +27,7 @@ body {
 .divFerias { /* AVISO DE FÉRIAS */
     color: red;
     font-style: bold;
-    font-size: xx-large;
+    font-size: 40px;
 }
 
 .meuNome {
