@@ -22,6 +22,12 @@ body {
     font-size: 24px;
     font-style: bold;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* AVISO DE FÉRIAS */
+}
+
+.divFerias {
+    color: red;
+    font-style: bold;
 }
 
 .meuNome {
